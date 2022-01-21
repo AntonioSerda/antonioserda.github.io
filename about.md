@@ -16,4 +16,4 @@ comprehension of the world around.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[antosm.48@outlook.com](mailto:antosm.48@outlook.com)
