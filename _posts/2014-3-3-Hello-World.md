@@ -30,6 +30,8 @@ In order to fulfill this last objective, it is necessary to have the appropriate
 
 • Draw a prototype of the optimum turbine tracking curve, necessary for the use of vector control devices. To draw the real one, it would be necessary to replace the mechanical power on the shaft with the electrical power generated at each moment by a motor connected to the turbine.
 
+![_config.yml]({{ site.baseurl }}/images/TurbinaAerogenerador.png)
+
 ## Methodology
 Arduino has been used to design the first three functions. These have been 
 installed on an Arduino Uno board to which an anemometer, a Hall sensor, a sevomotor and a bluetooth module have been connected. The anemometer used has three cups and switches twice per lap. The Hall effect sensor is attached to the turbine casing and detects a switch every time a blade passes near it. Each blade has a magnet attached to its central point. The servomotor is installed in a brake system designed by the project supervisor. When the wind or turbine speed exceeds a previously specified limit, the servomotor is activated. The bluetooth module is used to send the switching time data of the anemometer and the Hall sensor to a computer for further analysis. Everything related to sending data through this system has been designed by the student Javier Colinas Cano in his respective Final Degree Project: “Measurement, transmission and data analysis ofa vertical axis wind turbine for domestic use”.
@@ -47,7 +49,3 @@ Finally, the program for obtaining the prototype of the optimum turbine tracking
 This project presents a series of useful tools, procedures and recommendations aimed at facing the first steps of the development of a wind turbine of these characteristics. Throughout it, errors that may have occurred are detailed, as well as their solutions.
 
 After this project, comes the improvement of the turbine design based on the results obtained thanks to the execution of the programs shown here. For obtaining electrical energy and its subsequent transmission to the grid, devices such as an electric motor, power converters or a gearbox, if necessary, must also be chosen and installed
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
