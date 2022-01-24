@@ -34,6 +34,6 @@ Finally, the program for obtaining the prototype of the optimum turbine tracking
 This project presents a series of useful tools, procedures and recommendations aimed at facing the first steps of the development of a wind turbine of these characteristics. Throughout it, errors that may have occurred are detailed, as well as their solutions.
 After this project, comes the improvement of the turbine design based on the results obtained thanks to the execution of the programs shown here. For obtaining electrical energy and its subsequent transmission to the grid, devices such as an electric motor, power converters or a gearbox, if necessary, must also be chosen and installed
 
-# ![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/config.png)
 
-# The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
