@@ -49,3 +49,8 @@ Finally, the program for obtaining the prototype of the optimum turbine tracking
 This project presents a series of useful tools, procedures and recommendations aimed at facing the first steps of the development of a wind turbine of these characteristics. Throughout it, errors that may have occurred are detailed, as well as their solutions.
 
 After this project, comes the improvement of the turbine design based on the results obtained thanks to the execution of the programs shown here. For obtaining electrical energy and its subsequent transmission to the grid, devices such as an electric motor, power converters or a gearbox, if necessary, must also be chosen and installed
+
+## Links
+For a complete explanation about how the project works go to [Repositorio Comillas](http://hdl.handle.net/11531/41777).
+
+For the necesary codes 
