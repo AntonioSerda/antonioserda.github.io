@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Industrial engineer in process.
+Industrial engineer.
 
 ### More Information
 
